@@ -17,7 +17,7 @@ limitations under the License.
 package logs
 
 import (
-	"flag"
+	// "flag"
 	"fmt"
 	"log"
 	"time"
